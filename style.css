@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+.profile {
+    width: 30%;
+    background-color: lightgray;
+}
+
+.content {
+    width: 70%;
+    background-color: lightblue;
+}
